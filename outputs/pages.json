@@ -1,0 +1,99 @@
+{
+  "product_page": {
+    "headline": "GlowBoost Vitamin C Serum",
+    "description": "GlowBoost Vitamin C Serum is a lightweight skincare formulation designed to brighten skin tone, reduce pigmentation, and improve overall skin texture through consistent use.",
+    "benefits": [
+      "Brightens dull skin",
+      "Reduces dark spots and pigmentation",
+      "Improves skin hydration",
+      "Enhances collagen production",
+      "Evens skin tone"
+    ],
+    "usage": "Apply 2\u00e2\u20ac\u201c3 drops to cleansed face in the morning before moisturizer and sunscreen.",
+    "skin_type": [
+      "Normal",
+      "Oily",
+      "Combination",
+      "Dry"
+    ],
+    "price": "$29.99"
+  },
+  "faq_page": {
+    "faqs": [
+      {
+        "question": "What is the main purpose of GlowBoost Vitamin C Serum?",
+        "answer": "The main purpose of GlowBoost Vitamin C Serum is to brighten skin tone, reduce pigmentation, and improve overall skin texture through consistent use."
+      },
+      {
+        "question": "How do I use GlowBoost Vitamin C Serum?",
+        "answer": "Apply 2\u20133 drops to cleansed face in the morning before moisturizer and sunscreen."
+      },
+      {
+        "question": "What are the benefits of using GlowBoost Vitamin C Serum?",
+        "answer": "The benefits include brightening dull skin, reducing dark spots and pigmentation, improving skin hydration, enhancing collagen production, and evening skin tone."
+      },
+      {
+        "question": "What skin types is GlowBoost Vitamin C Serum suitable for?",
+        "answer": "GlowBoost Vitamin C Serum is suitable for normal, oily, combination, and dry skin types."
+      },
+      {
+        "question": "Are there any potential side effects of using GlowBoost Vitamin C Serum?",
+        "answer": "Yes, potential side effects include mild tingling on first use and possible irritation for sensitive skin."
+      },
+      {
+        "question": "How much does GlowBoost Vitamin C Serum cost?",
+        "answer": "GlowBoost Vitamin C Serum costs $29.99."
+      },
+      {
+        "question": "What ingredients are in GlowBoost Vitamin C Serum?",
+        "answer": "The ingredients include Vitamin C (Ascorbic Acid), Hyaluronic Acid, Niacinamide, Aloe Vera Extract, and Ferulic Acid."
+      },
+      {
+        "question": "Can I use GlowBoost Vitamin C Serum at night?",
+        "answer": "The product instructions recommend applying it in the morning before moisturizer and sunscreen, but it's always best to consult with a skincare professional for personalized advice."
+      },
+      {
+        "question": "How does GlowBoost Vitamin C Serum compare to RadiantSkin C+ Serum in terms of price?",
+        "answer": "GlowBoost Vitamin C Serum is priced at $29.99, while RadiantSkin C+ Serum is priced at $34.99."
+      },
+      {
+        "question": "What is the key difference between GlowBoost Vitamin C Serum and RadiantSkin C+ Serum in terms of ingredients?",
+        "answer": "GlowBoost Vitamin C Serum contains a broader range of ingredients, including Hyaluronic Acid, Niacinamide, Aloe Vera Extract, and Ferulic Acid, in addition to Vitamin C."
+      },
+      {
+        "question": "Is GlowBoost Vitamin C Serum suitable for sensitive skin?",
+        "answer": "While GlowBoost Vitamin C Serum can be used on most skin types, it may cause irritation for sensitive skin. It's recommended to do a patch test before using it."
+      },
+      {
+        "question": "Can I purchase GlowBoost Vitamin C Serum online?",
+        "answer": "Yes, GlowBoost Vitamin C Serum can be purchased online, but it's always best to check the official website or authorized retailers for availability and pricing."
+      },
+      {
+        "question": "How long does it take to see results from using GlowBoost Vitamin C Serum?",
+        "answer": "Results may vary, but consistent use of GlowBoost Vitamin C Serum can lead to noticeable improvements in skin tone and texture over time."
+      },
+      {
+        "question": "Is GlowBoost Vitamin C Serum cruelty-free?",
+        "answer": "The product information does not specify whether GlowBoost Vitamin C Serum is cruelty-free, so it's best to contact the manufacturer for more information."
+      },
+      {
+        "question": "How does GlowBoost Vitamin C Serum compare to Product B, a fictional vitamin C serum, in terms of benefits?",
+        "answer": "GlowBoost Vitamin C Serum offers a range of benefits, including brightening dull skin, reducing dark spots and pigmentation, and improving skin hydration, which may be comparable to or surpassing those of Product B."
+      }
+    ]
+  },
+  "comparison_page": {
+    "product": "GlowBoost Vitamin C Serum",
+    "competitors": [
+      {
+        "name": "RadiantSkin C+ Serum",
+        "price": "$34.99",
+        "ingredients": [
+          "Vitamin C",
+          "Glycerin",
+          "Green Tea Extract"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "product": {
+    "name": "GlowBoost Vitamin C Serum",
+    "description": "GlowBoost Vitamin C Serum is a lightweight skincare formulation designed to brighten skin tone, reduce pigmentation, and improve overall skin texture through consistent use.",
+    "ingredients": [
+      "Vitamin C (Ascorbic Acid)",
+      "Hyaluronic Acid",
+      "Niacinamide",
+      "Aloe Vera Extract",
+      "Ferulic Acid"
+    ],
+    "benefits": [
+      "Brightens dull skin",
+      "Reduces dark spots and pigmentation",
+      "Improves skin hydration",
+      "Enhances collagen production",
+      "Evens skin tone"
+    ],
+    "usage": "Apply 2–3 drops to cleansed face in the morning before moisturizer and sunscreen.",
+    "skin_type": [
+      "Normal",
+      "Oily",
+      "Combination",
+      "Dry"
+    ],
+    "price": "$29.99",
+    "side_effects": [
+      "Mild tingling on first use",
+      "Possible irritation for sensitive skin"
+    ]
+  },
+  "competitors": [
+    {
+      "name": "RadiantSkin C+ Serum",
+      "description": "RadiantSkin C+ Serum focuses on brightening and anti-aging with a high concentration of Vitamin C.",
+      "ingredients": [
+        "Vitamin C",
+        "Glycerin",
+        "Green Tea Extract"
+      ],
+      "price": "$34.99"
+    }
+  ]
+}
